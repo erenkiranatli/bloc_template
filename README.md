@@ -1,16 +1,10 @@
 # bloc_template
 
-A new Flutter project.
+Bu proje, Flutter ile BLoC (Business Logic Component) mimarisi kullanılarak hazırlanmış bir şablondur.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **BLoC Pattern** ile iş mantığının yönetimi  
+- **GoRouter** ile sayfa yönlendirmeleri  
+- **Dependency Injection** için get_it kullanımı  
+- Flutter’ın resmi **localization** sistemi ile çoklu dil desteği  
