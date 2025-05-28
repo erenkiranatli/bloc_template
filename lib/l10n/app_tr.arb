@@ -1,0 +1,10 @@
+{
+  "@@locale": "tr",
+  "login": "Giriş",
+  "email": "Email",
+  "password": "Şifre",
+  "errorOccurred": "Bir hata oluştu.",
+  "incorrectAuth": "Email veya şifre hatalı.",
+  "genericError": "Beklenmeyen bir hata oluştu."
+
+}

@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "errorOccurred": "An error occurred.",
+  "incorrectAuth": "Email or password incorrect.",
+  "genericError": "An unexpected error occurred."
+
+}
